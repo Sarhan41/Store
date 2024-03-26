@@ -1,16 +1,16 @@
 # Customizable Frontend Store
 
-Welcome to our customizable frontend store! This repository houses the code for a frontend store that is fully customizable from a backend CMS (Content Management System).
+Welcome to my customizable frontend store! This repository houses the code for a frontend store that is fully customizable from a backend CMS (Content Management System).
 
 ## Live Demo
 
-You can experience our frontend store live by visiting the following link: [Frontend Store Live Demo](https://store-cms-dashboard.vercel.app)
+You can experience my frontend store live by visiting the following link: [Frontend Store Live Demo](https://store-cms-dashboard.vercel.app)
 
-Feel free to explore the store and provide us with your valuable feedback!
+Feel free to explore the store and provide me with your valuable feedback!
 
 ## Screenshots
 
-Here are some screenshots of our customizable frontend store:
+Here are some screenshots of my customizable frontend store:
 
 ![Screenshot 1](/screenshots/Store_1.png)
 ![Screenshot 2](/screenshots/Store_2.png)
