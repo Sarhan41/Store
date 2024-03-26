@@ -9,7 +9,6 @@ import ProductCard from "@/components/ProductCard/ProductCard";
 import Filter from "./components/Filter";
 import MobileFilters from "./components/MobileFilter";
 
-export const revalidate = 0;
 
 interface CategoryPageProps {
   params: {

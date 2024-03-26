@@ -5,7 +5,6 @@ import MainNav from "@/components/Header/MainNav";
 import GetCategories from "@/actions/GetCategories";
 import NavbarActions from "./NavbarActions";
 
-export const revalidate = 0;
 
 const Header = async () => {
   const categories = await GetCategories();
